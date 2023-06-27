@@ -6,20 +6,20 @@ Perusahaan "Trips&Travel.com" ingin mengaktifkan dan membangun model bisnis yang
 Kami adalah tim data scientist internal perusahaan "Trips&Travel.Com", yang merupakan bagian dari divisi marketing. Kami bertanggung jawab menganalisa dan memberikan rekomendasi kepada bagian marketing sehingga dapat meningkatkan kinerja bagian tersebut guna memberikan impact signifikan kepada perusahaan.
 
 
-## Problem
+# Problem
 
 - Berdasarkan data tahun lalu diketahui bahwa 19% pelanggan membeli paket perjalanan. Namun, biaya pemasarannya cukup tinggi karena pelanggan dihubungi secara acak tanpa melihat informasi yang tersedia.
 - Perusahaan ingin meluncurkan paket perjalanan baru, tetapi perusahaan ingin memanfaatkan data yang tersedia dari pelanggan yang ada dan pelanggan potensial untuk membuat pengeluaran pemasaran lebih efisien.
 
-**2. GOAL**
+# GOAL
 
 Untuk menaikkan convertion rate dan revenue perusahaan.
 
-**3. OBJECTIVE**
+# OBJECTIVE
 
 Membuat model untuk memprediksi pelanggan yang akan membeli paket liburan terbaru.
 
-## Business Metric
+# Business Metric
 
 - **Conversion Rate (presisi)** : Persentase banyaknya pelanggan yang akan membeli paket perjalanan.
 - **Revenue (pendapatan kotor)** : Pendapatan yang dihasilkan dari pembelian paket perjalanan untuk menutupi pengeluaran pemasaran.
