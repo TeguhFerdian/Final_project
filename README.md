@@ -1,6 +1,6 @@
 # 🐼 Holiday Package Prediction - by Pandas Lovers 🐼 \*\*
 
-<img src="images/banner.png" >
+<img src="banner.png" >
 
 ## **✨ Anggota Kelompok Pandas Lovers ✨**
 
