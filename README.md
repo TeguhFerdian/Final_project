@@ -1,28 +1,34 @@
+# 🐼 Holiday Package Prediction - by Pandas Lovers 🐼 \*\*
 
-# Dataset
+<img src="images/banner.png" >
 
-Perusahaan "Trips&Travel.com" ingin mengaktifkan dan membangun model bisnis yang layak untuk memperluas basis pelanggan. Salah satu cara untuk memperluas basis pelanggan adalah dengan memperkenalkan penawaran paket baru. Saat ini, ada 5 jenis paket yang ditawarkan perusahaan - Basic, Standard, Deluxe, Super Deluxe, King. Melihat data tahun lalu, kami mengamati bahwa 18% pelanggan membeli paket. Namun, biaya pemasarannya cukup tinggi karena pelanggan dihubungi secara acak tanpa melihat informasi yang tersedia. Saat ini perusahaan berencana untuk meluncurkan produk baru yaitu Paket Wisata Kesehatan. Wellness Tourism didefinisikan sebagai Perjalanan yang memungkinkan wisatawan untuk mempertahankan, meningkatkan atau memulai gaya hidup sehat, dan mendukung atau meningkatkan rasa sejahtera seseorang. Namun, saat ini perusahaan ingin memanfaatkan data yang tersedia dari pelanggan yang ada dan pelanggan potensial untuk membuat pengeluaran pemasaran lebih efisien.
+## **✨ Anggota Kelompok Pandas Lovers ✨**
 
-Kami adalah tim data scientist internal perusahaan "Trips&Travel.Com", yang merupakan bagian dari divisi marketing. Kami bertanggung jawab menganalisa dan memberikan rekomendasi kepada bagian marketing sehingga dapat meningkatkan kinerja bagian tersebut guna memberikan impact signifikan kepada perusahaan.
+1. Edgar Ariel Majied
+2. Vionella Awanda Irsabadi
+3. Teguh Ferdianto
+4. R. Arnanda Adi Wijanarko
+5. Sendhy Boedhi
+6. Jodhi Krisantus Sihalbu
+7. Jannisah Dwi Rahhadiski
+8. Faris Isham Wiryansyah
 
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1og6cvaGaytVXbDfEG2YFAhy9YhaIQPVY?usp=sharing#scrollTo=fQlFGqU0NjD-)
 
-# Problem
+## **📌 DATASET 📌**
 
-- Berdasarkan data tahun lalu diketahui bahwa 19% pelanggan membeli paket perjalanan. Namun, biaya pemasarannya cukup tinggi karena pelanggan dihubungi secara acak tanpa melihat informasi yang tersedia.
-- Perusahaan ingin meluncurkan paket perjalanan baru, tetapi perusahaan ingin memanfaatkan data yang tersedia dari pelanggan yang ada dan pelanggan potensial untuk membuat pengeluaran pemasaran lebih efisien.
+DATASET : [HOLIDAY PACKAGE PREDICTION](https://www.kaggle.com/datasets/susant4learning/holiday-package-purchase-prediction)
 
-# GOAL
+## **💻 STRUKTUR REPOSITORY 💻**
 
-Untuk menaikkan convertion rate dan revenue perusahaan.
+```html
+Holiday Package Prediction/ |- dataset/ |- Travel.csv |- images/ |- banner.png
+|- Edgar.png |- Faris.png |- Jannisah.png |- Jodhi.png |- Nanda.png |-
+sendhy.png |- Teguh.png |- Vionella.png |- app.py |- holiday.pkl |- LICENSE |-
+model_rf.sav |- Pandas_Lovers_Holiday_Package_Prediction.ipynb |- README.md |-
+requirements.txt |- style.css
+```
 
-# OBJECTIVE
+### **💡 Demo App 💡**
 
-Membuat model untuk memprediksi pelanggan yang akan membeli paket liburan terbaru.
-
-# Business Metric
-
-- **Conversion Rate (presisi)** : Persentase banyaknya pelanggan yang akan membeli paket perjalanan.
-- **Revenue (pendapatan kotor)** : Pendapatan yang dihasilkan dari pembelian paket perjalanan untuk menutupi pengeluaran pemasaran.
-
-
-
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://finalproject.streamlit.app/)
